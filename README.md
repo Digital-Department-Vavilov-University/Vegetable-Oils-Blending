@@ -5,7 +5,7 @@
 `Программа определяет оптимальный состав смеси растительных масел новых видов.`
 
 <p align="center">
-  <img src="https://github.com/Digital-Department-Vavilov-University/Vegetable-Oils-Blending/assets/135830345/f1560c36-ba50-46d5-90f1-4e5f232c2793"><br>
+  <img src="https://github.com/Digital-Department-Vavilov-University/Vegetable-Oils-Blending/assets/135830345/9b79fd9f-8250-410a-b528-bd1f591a04ca"><br>
   Интерфейс приложения
 </p>
  
